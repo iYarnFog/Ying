@@ -1,0 +1,7 @@
+name: YingLoginGUI
+main: com.zyy.YingLogin.Ying
+version: 6.0.4
+website: https://www.zyy.com
+author: Ying
+description: Add a sign gui for AuthMe
+depend: [ProtocolLib, AuthMe]
