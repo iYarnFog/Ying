@@ -1,0 +1,44 @@
+name: Ying
+main: com.zyy.Ying
+version: 6.4.0
+author: Ying
+commands:
+  Ying:
+    description: Controls Dynmap.
+    usage: |
+           /<command> hide - hides the player from the map.
+           /<command> hide TheDude - hides the player 'TheDude' on the map.
+           /<command> show - shows the player on the map.
+           /<command> show TheDude - shows the player 'TheDude' on the map.
+           /<command> render - Renders the tile at your location.
+           /<command> fullrender - Render all maps for entire world from your location.
+           /<command> fullrender world - Render all maps for entire world 'world'.
+           /<command> fullrender world:mapname - Render map 'mapname' of world 'world'.
+           /<command> radiusrender ## - Render at least ## block radius from your location on all maps.
+           /<command> radiusrender ## mapname - Render at least ## block radius from your location on map 'mapname'
+           /<command> radiusrender worldname x z ## - Render at least ## block radius from location x,z on world 'worldname'
+           /<command> radiusrender worldname x z ## mapname - Render at least ## block radius from location x,z on world 'worldname' on map 'mapname'
+           /<command> updaterender - Render updates starting at your location on all maps.
+           /<command> updaterender mapname - Render updates starting at your location on give map
+           /<command> updaterender worldname x z mapname - Render updates starting at location x,z on world 'worldname' for given map
+           /<command> cancelrender - Cancels any active renders on current world
+           /<command> cancelrender world - Cancels any active renders of world 'world'
+           /<command> stats - Show render statistics.
+           /<command> triggerstats - Show render trigger statistics
+           /<command> resetstats - Reset render statistics.
+           /<command> sendtoweb msg - Send message to web users
+           /<command> purgequeue - Set tile update queue to empty
+           /<command> purgequeue worldname - Set tile update queue to empty for world 'worldname'
+           /<command> purgemap worldname mapname - Delete all the tiles for map 'mapname' of world 'worldname'
+           /<command> purgeworld worldname - Delete all the files for world 'worldname'
+           /<command> pause - Show render pause state
+           /<command> pause <all|none|full|update> - Set render pause state
+           /<command> quiet - Stop progress messages from active jobs
+           /<command> ids-for-ip <ipaddress> - Show player IDs that have logged in from given IP address
+           /<command> ips-for-id <playerid> - Show IP addresses that have been used for the given player ID
+           /<command> add-id-for-ip <playerid> <ipaddress> - Add player ID to given IP address
+           /<command> del-id-for-ip <playerid> <ipaddress> - Delete player ID from given IP address
+           /<command> webregister - Start registration process for creating web login account
+  ping:
+      description: Controls Dynmap.
+
