@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+    <!-- Greeting categories. -->
+    <category>
+        <pattern>颖颖帮我打开服务在端口 *</pattern>
+        <template>
+            <think>
+                <system> <!-- Defines a method to create new categories from user input at run-time. -->
+                    import com.zyy.YingBrain.YingBrainApi;
+
+                    YingBrainApi.YingWebsocket(<star/>);
+                </system>
+            </think>
+            好啦!(如果没有报错的话←_←)
+        </template>
+    </category>
+
+</aiml>

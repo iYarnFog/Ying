@@ -1,0 +1,125 @@
+#=============================================================#
+# +---------------------------------------------------------+ #
+# |  Advanced Achievements Chinese translation by DoloStar  | #
+# |             ~ Valid as of version 2.5.4 ~               | #
+# |   Newer plugin versions will automatically append new   | #
+# |     untranslated parameters to the end of the file.     | #
+# +---------------------------------------------------------+ #
+#=============================================================#
+
+no-permissions: "你没有权限这么做"
+
+# Related to /aach reload.
+configuration-successfully-reloaded: "配置加载成功"
+configuration-reload-failed: "加载失败 请查看log"
+
+# Related to /aach top.
+top-achievement: "成就排行榜"
+player-rank: "现在的排名:"
+
+# Related to /aach stats.
+number-achievements: "已获得的成就:"
+
+# Related to /aach book.
+book-received: "你获得了你的成就书"
+book-delay: "指令冷却中"
+book-name: "成就记录书"
+
+# Related to /aach give.
+player-offline: "该玩家不在线"
+achievement-already-received: "该玩家已获得该成就"
+achievement-not-found: "未找到指定的成就"
+achievement-given: "已给予成就"
+
+# Related to achievement reception.
+achievement-received: "该玩家已获得成就"
+achievement-new: "新成就:"
+
+# Related to /aach check.
+check-achievement-true: "该玩家已获得该成就"
+check-achievements-false: "该玩家未获得该成就"
+
+# Related to /aach delete.
+delete-achievements: "已删除玩家该玩家的该成就"
+
+# Related to achievement rewards.
+item-reward-received: "你获得了物品奖励"
+money-reward-received: "你获得了金钱奖励:AMOUNT"
+command-reward: "指令奖励"
+
+# Related to /aach help.
+aach-command-book: "获取记录成就的书本"
+aach-command-stats: "查看你已获得的成就"
+aach-command-list: "显示所有成就"
+aach-command-top: "查看成就排行榜"
+aach-command-give: "给予玩家一个成就"
+aach-command-reload: "重载插件"
+aach-command-info: "查看插件信息"
+aach-command-check: "检测玩家该玩家是否获得该成就"
+aach-command-delete: "已删除玩家的该玩家的该成就"
+
+# Related to /aach info.
+version-command-name: "名字:"
+version-command-version: "版本:"
+version-command-website: "网站:"
+version-command-author: "作者:"
+version-command-description: "介绍:"
+version-command-description-details: "功能强大,配置简单\  的自定义成就插件"
+version-command-vault: 'vault integration:'
+version-command-database: "数据库类型:"
+
+# Related to /aach list.
+list-gui-title: "&5&l成就列表"
+list-delay: "你必须等待time秒来再次使用指令"
+list-reward: "奖励: "
+list-reward-money: "金币"
+list-reward-item: "物品"
+list-reward-command: "其他"
+list-amount: "lvl: "
+list-achievement-received: "&a√&f "
+list-achievement-not-received: "&4X&8 "
+
+# Related to category names in /aach list.
+# Set a parameter to "" to hide it from /aach list (but not disable the category).
+list-connections: "链接服务器"
+list-places: "放置方块"
+list-breaks: "破坏方块"
+list-kills: "击杀实体"
+list-crafts: "合成物品"
+list-deaths: "死亡次数"
+list-arrows: "发射箭支"
+list-snowballs: "投掷雪球"
+list-eggs: "投掷鸡蛋"
+list-fish: "钓鱼"
+list-itembreaks: "物品损坏"
+list-eatenitems: "吃东西"
+list-shear: "剪羊毛"
+list-milk: "挤牛奶"
+list-trades: "交易次数"
+list-anvils: "使用铁毡"
+list-enchantments: "附魔物品"
+list-beds: "上床"
+list-maxlevel: "达到指定等级"
+list-potions: "药水消耗"
+list-playedtime: "在线时间"
+list-distance-foot: "徒步行走距离"
+list-distance-pig: "骑猪行走距离"
+list-distance-horse: "骑马行走距离"
+list-distance-minecart: "矿车行驶距离"
+list-distance-boat: "船行驶距离"
+list-distance-gliding: "滑翔翼飞行距离"
+list-itemdrops: "物品掉落"
+list-hoeplowings: "耕地"
+list-fertilising: "施肥"
+list-taming: "驯服动物"
+list-brewing: "酿造药水"
+list-fireworks: "发射烟花"
+list-musicdiscs: "播放音乐唱片"
+list-enderpearls: "使用末影珍珠传送"
+list-commands: "其他成就"
+
+#============================================================#
+# +--------------------------------------------------------+ #
+# |         Parameters to appear in future versions        | #
+# +--------------------------------------------------------+ #
+#============================================================#

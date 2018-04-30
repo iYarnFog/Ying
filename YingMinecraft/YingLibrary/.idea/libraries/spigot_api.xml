@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="spigot-api">
+    <CLASSES>
+      <root url="jar://Z:/YingServer/Ying/spigot-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://Z:/YingServer/Ying/spigot.jar!/" />
+    </SOURCES>
+    <excluded>
+      <root url="jar://Z:/YingServer/Ying/spigot.jar!/com/google/common/annotations" />
+    </excluded>
+  </library>
+</component>

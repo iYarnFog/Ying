@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="com.github.sommeri:less4j:1.17.2" type="repository">
+    <properties maven-id="com.github.sommeri:less4j:1.17.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YingLibrary/less4j-1.17.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/antlr-runtime-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/commons-io-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/gson-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/protobuf-java-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

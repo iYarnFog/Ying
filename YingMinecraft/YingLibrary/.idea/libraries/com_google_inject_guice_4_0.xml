@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.google.inject:guice:4.0" type="repository">
+    <properties maven-id="com.google.inject:guice:4.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YingLibrary/guice-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/guava-16.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

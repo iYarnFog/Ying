@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="YingLibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../YingLibrary/out/artifacts/YingLibrary_jar/YingLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

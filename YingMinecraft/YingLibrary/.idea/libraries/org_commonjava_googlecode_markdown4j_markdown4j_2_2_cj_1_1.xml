@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.commonjava.googlecode.markdown4j:markdown4j:2.2-cj-1.1" type="repository">
+    <properties maven-id="org.commonjava.googlecode.markdown4j:markdown4j:2.2-cj-1.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YingLibrary/markdown4j-2.2-cj-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

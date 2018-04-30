@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="net.dongliu:requests:2.1.5" type="repository">
+    <properties maven-id="net.dongliu:requests:2.1.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YingLibrary/requests-2.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/httpclient-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/httpcore-4.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/httpmime-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/jcl-over-slf4j-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

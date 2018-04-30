@@ -1,0 +1,189 @@
+#=============================================================#
+# +---------------------------------------------------------+ #
+# | Advanced Achievements Spanish translation by Segysmundo | #
+# |            and Zixasismc (www.zixasismc.xyz)            | #
+# |             ~ Valid as of version 5.2.9 ~               | #
+# |   Newer plugin versions will automatically append new   | #
+# |     untranslated parameters to the end of the file.     | #
+# +---------------------------------------------------------+ #
+#=============================================================#
+
+no-permissions: No tienes el permiso para hacer esto.
+statistic-cooldown: 'Reutilización de logros: espere TIME segundos antes de que esta acción cuente
+   de nuevo.'
+
+# Related to /aach reload.
+configuration-successfully-reloaded: La configuración se recargó con éxito.
+configuration-reload-failed: Errores al volver a cargar la configuración. Por favor, vea los registros para más detalles.
+
+# Related to /aach top week and month.
+top-achievement: 'Los mejores propietarios de logros:'
+player-rank: 'Posición actual:'
+week-achievement: 'Rankings semanales de logros:'
+month-achievement: 'Rankings mensuales de logros:'
+not-ranked: Actualmente no estás clasificado para este período.
+
+# Related to /aach stats.
+number-achievements: 'Logros recibidos:'
+
+# Related to /aach book.
+book-received: Recibiste tu libro de logros!
+book-delay: ¡Debes esperar TIME segundos entre cada recepción del libro!
+book-name: Libro de logros
+book-date: Libro creado el DATE.
+book-not-received: Aún no has recibido ningún logro.
+
+# Related to /aach give.
+player-offline: El jugador PLAYER está fuera de línea!
+achievement-already-received: ¡El jugador PLAYER ya recibió este logro!
+achievement-not-found: El logro especificado no se encontró en la categoría Comandos.
+achievement-given: Logro dado!
+
+# Related to achievement reception.
+achievement-received: 'PLAYER recibió el logro:'
+achievement-new: 'Nuevo logro:'
+
+# Related to /aach check.
+check-achievement-true: ¡PLAYER ha recibido el logro ACH!
+check-achievements-false: PLAYER no ha recibido el logro ACH!
+
+# Related to /aach delete.
+delete-achievements: El logro ACH fue eliminado de PLAYER.
+
+# Related to achievement rewards.
+item-reward-received: 'Recibiste una recompensa de artículo:'
+money-reward-received: 'Usted recibió: AMOUNT!'
+command-reward: Comando de recompensa llevado a cabo!
+experience-reward-received: 'Usted recibió: AMOUNT experiencia!'
+increase-max-health-reward-received: Su salud máxima ha aumentado por AMOUNT!
+increase-max-oxygen-reward-received: Su oxígeno máximo ha aumentado por AMOUNT!
+
+# Related to /aach help.
+aach-command-book: Recibe tu libro de logros.
+aach-command-book-hover: ¡Artículos de RP que puedes coleccionar e intercambiar con otros! Listado basado en el tiempo.
+aach-command-stats: Muestra la cantidad de logros recibidos.
+aach-command-stats-hover: Barra de progreso. ¡Hazte con todos!
+aach-command-list: Mostrar logros recibidos y faltantes.
+aach-command-list-hover: Fancy GUI para obtener una visión general de todos los logros y su progreso!
+aach-command-top: Mostrar clasificaciones personales y globales.
+aach-command-top-hover: ¿Quiénes son los líderes del servidor y cómo se comparan con ellos?
+aach-command-give: Dar el logro ACH a NAME.
+aach-command-give-hover: El jugador debe estar en línea; solo se pueden usar los logros de Comandos.
+aach-command-reload: Recarga la configuración del complemento.
+aach-command-reload-hover: Recargue la mayoría de las configuraciones en los archivos config.yml, gui.yml y lang.yml.
+aach-command-info: Muestra información sobre el complemento.
+aach-command-info-hover: ¡Alguna información adicional sobre el plugin y su increíble autor!
+aach-command-check: Verifica si NAME tiene ACH.
+aach-command-check-hover: Use el parámetro Nombre especificado en la configuración.
+aach-command-delete: Eliminar ACH de NAME.
+aach-command-delete-hover: El jugador debe estar en línea; no restablece ninguna estadística asociada.
+aach-command-week: Mostrar clasificaciones semanales.
+aach-command-week-hover: ¡Los mejores cazadores de logros desde el comienzo de la semana!
+aach-command-month: Mostrar clasificaciones mensuales.
+aach-command-month-hover: ¡Los mejores cazadores de logros desde el comienzo del mes!
+aach-command-toggle: Alternar logros de otros jugadores.
+aach-command-toggle-hover: ¡Su elección se guarda hasta el próximo reinicio del servidor!
+aach-command-reset: Restablecer estadística para la categoría CAT.
+aach-command-reset-hover: El jugador debe estar en línea; para las categorías con subcategorías, ¡todas se reinician!
+aach-command-generate: Generar avances.
+aach-command-generate-hover: Comando potencialmente lento; usar con cuidado!
+aach-tip: '&lHINT &8Puede &7&n&odesplasarce &8o hacer &7&n&oclic &8en los comandos!'
+
+# Related to /aach info.
+version-command-version: 'Version:'
+version-command-website: 'Sitio web:'
+version-command-author: 'Autor:'
+version-command-description: 'Descripción:'
+version-command-description-details: Advanced Achievements permite logros únicos y desafiantes. ¡Trata de recolectar tantos como puedas, ganar recompensas, escalar los rankings y recibir libros de RP!
+version-command-vault: 'Integración de bóveda:'
+version-command-petmaster: 'Pet Master integration:'
+version-command-btlp: 'BungeeTabListPlus integration:'
+version-command-database: 'Tipo de Base de Datos:'
+
+# Related to /aach list.
+list-gui-title: '&5&lLista de logros'
+list-delay: ¡Debe esperar TIME segundos entre cada comando de lista!
+list-description: 'Descripcion:'
+list-goal: 'Meta:'
+list-reception: 'Fecha de recepción:'
+list-progress: 'Progreso:'
+list-reward: 'Premio(s):'
+list-reward-money: recibir AMOUNT
+list-reward-item: recibir AMOUNT ITEM
+list-reward-command: otro
+list-reward-experience: recibir AMOUNT experiencia
+list-reward-increase-max-health: aumentar la salud máxima AMOUNT
+list-reward-increase-max-oxygen: aumentar el oxígeno máximo por AMOUNT
+list-achievement-received: '&5✔&f '
+list-achievement-not-received: '&4✘&8 '
+list-category-not-unlocked: Aún no has desbloqueado esta categoría.
+list-back-message: '&7Atras'
+list-achievements-in-category-singular: AMOUNT Losgro
+list-achievements-in-category-plural: AMOUNT Logros
+
+# Related to category names in /aach list.
+# Set a parameter to "" to hide it from /aach list (but not disable the category).
+list-connections: Conexiones
+list-places: Bloques colocados
+list-breaks: Bloques Rotos
+list-kills: Entidades asesinadas
+list-crafts: Items Crafteados
+list-playercommands: Comandos ingresados
+list-deaths: Numero de Muertes
+list-arrows: Disparo de flechas
+list-snowballs: Bolas de nieve lanzadas
+list-eggs: Huevos lanzados
+list-fish: Pescado atrapado
+list-treasure: Tesoro pescado
+list-itembreaks: Items rotos
+list-eatenitems: Items comidos
+list-shear: Sheeps Sheared
+list-milk: Vacas ordeñadas
+list-lavabuckets: Cubos llenos de lava
+list-waterbuckets: Cubos llenos de agua
+list-trades: Numero de Tradeos
+list-anvils: Yunques usados
+list-enchantments: Items Encantados
+list-beds: Camas colocadas
+list-maxlevel: Nivel máximo alcanzado
+list-potions: Pociones consumidas
+list-playedtime: Tiempo Jugando
+list-distance-foot: Distancia recorrida por el pie
+list-distance-pig: Distancia recorrida en cerdo
+list-distance-horse: Distancia recorrida en caballo
+list-distance-minecart: Distancia recorrida en Minecart
+list-distance-boat: Distancia recorrida en Bote
+list-distance-gliding: Distancia recorrida en Elytra
+list-distance-llama: Distancia recorrida en llama
+list-itemdrops: Items caidos
+list-itempickups: Items Recogidos
+list-hoeplowings: Superficie arada
+list-fertilising: Plantas fertilizadas
+list-taming: Animales domesticados
+list-breeding: Animales criados
+list-brewing: Pociones elaboradas
+list-fireworks: Fuegos artificiales lanzados
+list-musicdiscs: Discos de música jugados
+list-enderpearls: Teleportaciones con Ender Pearls
+list-petmastergive: Mascotas entregadas a otro jugador
+list-petmasterreceive: Mascotas recibidas de otro jugador
+list-smelting: Artículos Smelt
+list-commands: Otros Logros
+
+# Related to /aach toggle.
+toggle-displayed: Ahora se te notificará cuando otros jugadores obtengan logros.
+toggle-hidden: Ya no recibirás más notificaciones cuando otros jugadores obtengan logros.
+
+# Related to /aach reset.
+reset-successful: ' las estadísticas se borraron para el PLAYER.'
+category-does-not-exist: La categoría especificada no existe.
+
+# Related to /aach generate.
+advancements-generated: Los avances se generaron con éxito.
+minecraft-not-supported: Avances no admitidos en su versión de Minecraft. Por favor, actualice a 1.12+.
+
+#============================================================#
+# +--------------------------------------------------------+ #
+# | Parameters in future plugin versions will  appear here | #
+# +--------------------------------------------------------+ #
+#============================================================#

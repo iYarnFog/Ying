@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.github.jknack:handlebars:2.2.3" type="repository">
+    <properties maven-id="com.github.jknack:handlebars:2.2.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YingLibrary/handlebars-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/antlr4-runtime-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/rhino-1.7R4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/slf4j-api-1.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

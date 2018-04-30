@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="org.apache.shiro:shiro-all:1.4.0" type="repository">
+    <properties maven-id="org.apache.shiro:shiro-all:1.4.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-all-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-lang-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-config-core-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-config-ogdl-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/commons-beanutils-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-crypto-core-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-crypto-hash-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-crypto-cipher-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-event-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-core-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-cache-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-web-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-aspectj-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/aspectjrt-1.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/aspectjweaver-1.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-ehcache-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/ehcache-core-2.6.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-guice-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/guice-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/guice-multibindings-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-hazelcast-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/hazelcast-3.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-quartz-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/quartz-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/shiro-spring-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,8 +1,9 @@
 <component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="Ying:jar">
+  <artifact type="jar" name="Ying:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/Ying_jar</output-path>
     <root id="archive" name="Ying.jar">
       <element id="module-output" name="Ying" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../YingBrain/out/artifacts/YingBrain_jar/YingBrain.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

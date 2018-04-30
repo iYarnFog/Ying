@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YingWindow:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YingWindow_jar</output-path>
+    <root id="archive" name="YingWindow.jar">
+      <element id="module-output" name="YingWindow" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/YingLibrary/jxbrowser-6.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/YingLibrary/jxbrowser-win32-6.18.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

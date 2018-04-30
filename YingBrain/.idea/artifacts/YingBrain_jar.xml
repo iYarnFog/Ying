@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YingBrain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YingBrain_jar</output-path>
+    <root id="archive" name="YingBrain.jar">
+      <element id="module-output" name="YingBrain" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/YLibrary/IKAnalyzer2012.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/YLibrary/jansi-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/YLibrary/bsh.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

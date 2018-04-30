@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jxbrowser-6.18">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YingLibrary/jxbrowser-6.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/jxbrowser-win32-6.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

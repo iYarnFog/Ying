@@ -1,41 +1,19 @@
 package com.zyy;
 
-import org.bukkit.ChatColor;
-import org.bukkit.plugin.java.JavaPlugin;
+import com.zyy.YingBrain.YingBrain;
 
-public class Ying extends JavaPlugin {
-    private static Ying Y;
+import org.fusesource.jansi.AnsiConsole;
 
-    @Override
-    public void onEnable() {
-        super.onEnable();
-        Y = this;
-        for (ChatColor Y: ChatColor.values() ) {
-            YingLogger.YInfo(Y.name() + "'" + Y + "颖" + "'");
-        }
+import static org.fusesource.jansi.Ansi.ansi;
 
-        try {
-            throw new NullPointerException("颖: 测试");
-        } catch(Exception ye) {
-            ye.printStackTrace();
-            ye.getMessage();
-        }
+public class Ying {
 
-        //Y.getConfig().getString()
-        getCommand("ping").setExecutor(new YingCommandExecutor());
+    public static void main(String[] args) {
+        AnsiConsole.systemInstall();
 
-        getCommand("Ying").setExecutor(new YingCommandExecutor());
-        getServer().getPluginManager().registerEvents(new YingListener(), this);
+        YingBrain.Ying();
+
+        //YingWindow YWindow = new YingWindow();
+        //YWindow.Ying();
     }
-
-    @Override
-    public void onDisable() {
-        super.onDisable();
-    }
-
-    public static Ying getYing() {
-        return Y;
-    }
-
-
 }

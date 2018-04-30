@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.simpleframework:simple-http:6.0.1" type="repository">
+    <properties maven-id="org.simpleframework:simple-http:6.0.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YingLibrary/simple-http-6.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/simple-common-6.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/simple-transport-6.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+Ying: 20020604
+
+YingServer:
+  #YingHttp
+  YingHttp:
+    YEnable: true
+    YIP: 127.0.0.1
+    YPort: 6040
+    YRoute:
+      - Ying
+  #YingWebsocket
+  YingWebsocket:
+    YEnable: true
+    YIP: 127.0.0.1
+    YPort: 6041
+

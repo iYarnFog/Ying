@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YingMusic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YingMusic_jar</output-path>
+    <root id="archive" name="YingMusic.jar">
+      <element id="module-output" name="YingMusic" />
+    </root>
+  </artifact>
+</component>

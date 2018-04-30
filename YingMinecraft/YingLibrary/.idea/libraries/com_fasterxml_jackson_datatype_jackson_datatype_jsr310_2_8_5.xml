@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.8.5" type="repository">
+    <properties maven-id="com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.8.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YingLibrary/jackson-datatype-jsr310-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/jackson-annotations-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/jackson-core-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YingLibrary/jackson-databind-2.8.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
